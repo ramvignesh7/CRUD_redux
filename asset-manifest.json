@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/CRUD_redux.git/static/css/main.d0e0198f.css",
-    "main.js": "/CRUD_redux.git/static/js/main.8d869fc8.js",
+    "main.js": "/CRUD_redux.git/static/js/main.899fed7b.js",
     "index.html": "/CRUD_redux.git/index.html",
     "main.d0e0198f.css.map": "/CRUD_redux.git/static/css/main.d0e0198f.css.map",
-    "main.8d869fc8.js.map": "/CRUD_redux.git/static/js/main.8d869fc8.js.map"
+    "main.899fed7b.js.map": "/CRUD_redux.git/static/js/main.899fed7b.js.map"
   },
   "entrypoints": [
     "static/css/main.d0e0198f.css",
-    "static/js/main.8d869fc8.js"
+    "static/js/main.899fed7b.js"
   ]
 }

@@ -8,7 +8,6 @@ import 'react-toastify/dist/ReactToastify.css';
 import { Provider } from 'react-redux';
 import Update from './component/UpdateUser';
 function App() {
-  console.log("app");
   return (
     <div className="App">
       <BrowserRouter>

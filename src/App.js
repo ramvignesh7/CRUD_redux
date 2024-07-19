@@ -5,10 +5,10 @@ import AddUser from './component/AddUser';
 import { Bounce, ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import Update from './component/UpdateUser';
-function App() {
+function App() { 
   return (
     <div className="App">
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <Routes>
           <Route path='/' element={<Home />}></Route>
           <Route path='/create' element={<AddUser />}></Route>

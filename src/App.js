@@ -2,10 +2,8 @@ import './App.css';
 import { BrowserRouter, Link, Route, Routes } from 'react-router-dom';
 import Home from './component/Home';
 import AddUser from './component/AddUser';
-import UserListing from './component/UserListing';
 import { Bounce, ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
-import { Provider } from 'react-redux';
 import Update from './component/UpdateUser';
 function App() {
   return (
